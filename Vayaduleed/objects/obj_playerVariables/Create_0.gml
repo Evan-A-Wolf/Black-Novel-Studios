@@ -1,0 +1,9 @@
+global.class = "none";
+global.str = 1;
+global.hp = 10;
+global.spd = 1;
+global.agl = 1;
+global.srv = 1;
+global.xp = 1;
+global.gen = 1;
+global.difficulty = 1;
